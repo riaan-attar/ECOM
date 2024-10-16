@@ -13,22 +13,23 @@ This is a Django project for a male fashion website. Follow the steps below to r
 1. **Clone the repository:**
     ```sh
     git clone https://github.com/riaan-attar/ECOM
-    cd malefashion
+    cd ECOM
     ```
 
 2. **Create a virtual environment:**
     ```sh
-    python -m venv venv
+    pip insall virtualenv
+    virtualenv env
     ```
 
 3. **Activate the virtual environment:**
     - On Windows:
         ```sh
-        venv\Scripts\activate
+        env\Scripts\activate
         ```
     - On macOS/Linux:
         ```sh
-        source venv/bin/activate
+        source env/bin/activate
         ```
 
 4. **Install the dependencies:**
@@ -60,4 +61,8 @@ Feel free to submit issues or pull requests. For major changes, please open an i
 
 ## License
 
-This project is a private project and no liscence exist .
+This project is a private project and no license exists.
+
+## Copyright
+
+© 2023 riaan-attar. All rights reserved.
