@@ -1,6 +1,6 @@
 # MaleFashion Django Project
 
-This is a Django project for a male fashion website. Follow the steps below to run it locally.
+This is a Django project for a Clothing Store or Prin =t On Demand Store. Follow the steps below to run it locally.
 
 ## Prerequisites
 
