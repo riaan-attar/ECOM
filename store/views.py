@@ -22,8 +22,8 @@ def cart(request):
 def checkout(request):
     return render(request, 'checkout.html')
 
-def productView(request):
-    return render(request, 'products.html')
+def shop(request):
+    return render(request, 'shop.html')
 
 def profile(request):
     return render(request, 'profile.html')

@@ -27,7 +27,7 @@ urlpatterns = [
     path('signin/', store.views.signin, name='signin'),
     path('cart/', store.views.cart, name='cart'),
     path('checkout/', store.views.checkout, name='checkout'),
-    path('products/', store.views.productView, name='products'),
+    path('shop/', store.views.shop, name='shop'),
     path('profile/', store.views.profile, name='profile'),
     
 ]
