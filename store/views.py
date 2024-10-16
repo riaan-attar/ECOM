@@ -27,3 +27,6 @@ def shop(request):
 
 def profile(request):
     return render(request, 'profile.html')
+
+def blog(request): 
+    return render(request, 'blog.html')
